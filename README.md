@@ -31,8 +31,7 @@
 1. 克隆仓库:
 
 ```bash
-git clone [仓库URL]
-cd [项目文件夹]
+git clone https://github.com/Cayden-D/animation-synthesis.git
 ```
 
 2. 安装依赖:
@@ -81,4 +80,4 @@ MIT
 
 ## 联系方式
 
-如有问题或建议，请联系[您的联系方式]
+如有问题或建议，请提issue
